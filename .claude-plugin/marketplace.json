@@ -1,0 +1,26 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "logitropic-plugins",
+  "description": "Directory of popular Claude Code extensions including development tools, productivity plugins, and MCP integrations",
+  "owner": {
+    "name": "Logitropic",
+    "email": "support@logitropic.com"
+  },
+  "plugins": [
+    {
+      "name": "conductor",
+      "description": "Conductor is a Claude plugin (port Gemini CLI extension) that allows you to specify, plan, and implement software features.",
+      "category": "development",
+      "author": {
+        "name": "Anthropic",
+        "email": "support@anthropic.com"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Logitropic/conductor.git",
+        "path": "plugins/conductor"
+      },
+      "homepage": "https://github.com/Logitropic/conductor.git"
+    }
+  ]
+}
