@@ -13,10 +13,10 @@
       "category": "development",
       "source": {
         "source": "url",
-        "url": "https://github.com/Logitropic/conductor.git",
+        "url": "https://github.com/logitropic/conductor.git",
         "path": "plugins/conductor"
       },
-      "homepage": "https://github.com/Logitropic/conductor"
+      "homepage": "https://github.com/logitropic/conductor"
     }
   ]
 }
