@@ -13,6 +13,13 @@
       "category": "development",
       "source": "./plugins/conductor",
       "homepage": "https://github.com/logitropic/conductor"
+    },
+    {
+      "name": "build-ios-apps",
+      "description": "Build iOS apps with workflows for SwiftUI UI work, refactors, performance audits, and simulator debugging.",
+      "category": "Coding",
+      "source": "./plugins/build-ios-apps",
+      "homepage": "https://openai.com/"
     }
   ]
 }
