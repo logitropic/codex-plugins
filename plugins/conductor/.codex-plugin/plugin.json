@@ -1,0 +1,29 @@
+{
+  "name": "conductor",
+  "version": "1.0.0",
+  "description": "Conductor is a Codex plugin that allows you to specify, plan, and implement software features.",
+  "author": {
+    "name": "Logitropic"
+  },
+  "homepage": "https://github.com/logitropic/conductor",
+  "repository": "https://github.com/logitropic/conductor",
+  "license": "MIT",
+  "keywords": ["conductor", "Context-Driven Development"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Conductor",
+    "shortDescription": "Conductor is a Codex plugin that allows you to specify, plan, and implement software features.",
+    "longDescription": "Conductor is a Codex plugin that enables Context-Driven Development. It turns the Codex into a proactive project manager that follows a strict protocol to specify, plan, and implement software features and bug fixes.",
+    "developerName": "Logitropic",
+    "category": "Coding",
+    "capabilities": ["Interactive", "Read", "Write"],
+    "websiteURL": "https://openai.com/",
+    "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+    "termsOfServiceURL": "https://openai.com/policies/terms-of-use/",
+    "defaultPrompt": "Starts a new feature or bug track",
+    "screenshots": [],
+    "brandColor": "#EB1F1F",
+    "composerIcon": "./assets/app-icon.png",
+    "logo": "./assets/app-icon.png"
+  }
+}

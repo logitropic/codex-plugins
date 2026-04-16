@@ -1,0 +1,20 @@
+{
+  "name": "logitropic-plugins",
+  "interface": {
+    "displayName": "Logitropic"
+  },
+  "plugins": [
+    {
+      "name": "conductor",
+      "source": {
+        "source": "local",
+        "path": "./plugins/conductor"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Coding"
+    }
+  ]
+}
