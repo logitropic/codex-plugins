@@ -1,5 +1,5 @@
 interface:
-  display_name: "Reverts a track, phase, or task by analyzing git history."
+  display_name: "Revert"
   short_description: "Reverts a track, phase, or task by analyzing git history."
   icon_small: "./assets/small-logo.svg"
   icon_large: "./assets/large-logo.png"

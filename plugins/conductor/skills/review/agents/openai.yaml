@@ -1,5 +1,5 @@
 interface:
-  display_name: "Reviews completed work against guidelines and the plan."
+  display_name: "Review"
   short_description: "Reviews completed work against guidelines and the plan."
   icon_small: "./assets/small-logo.svg"
   icon_large: "./assets/large-logo.png"

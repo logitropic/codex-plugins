@@ -1,5 +1,5 @@
 interface:
-  display_name: "Starts a new feature or bug track. Generates spec.md and plan.md."
+  display_name: "New Track"
   short_description: "Starts a new feature or bug track. Generates spec.md and plan.md."
   icon_small: "./assets/small-logo.svg"
   icon_large: "./assets/large-logo.png"
